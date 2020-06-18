@@ -5,7 +5,7 @@ This is the small testng framework design to Bblog website
 In this project we have three packages given below:-
 
 1. Bblog.Basepage
-2  Bblog.Testcase
+2. Bblog.Testcase
 3. Bblog.Util
 
 in Util package i have created the class for browser selection this package is for common utilities used in the framework.
