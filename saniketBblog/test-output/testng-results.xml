@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45903" started-at="2020-06-18T16:30:02 IST" finished-at="2020-06-18T16:30:48 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45903" started-at="2020-06-18T16:30:02 IST" finished-at="2020-06-18T16:30:48 IST">
+      <class name="saniket.testcase.TC01">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:saniket.testcase.TC01@226a82c4]" name="beforeSuite" is-config="true" duration-ms="19" started-at="2020-06-18T16:30:02 IST" finished-at="2020-06-18T16:30:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:saniket.testcase.TC01@226a82c4]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-06-18T16:30:02 IST" finished-at="2020-06-18T16:30:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethodClass()[pri:0, instance:saniket.testcase.TC01@226a82c4]" name="beforeMethodClass" is-config="true" duration-ms="6622" started-at="2020-06-18T16:30:02 IST" finished-at="2020-06-18T16:30:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodClass -->
+        <test-method status="PASS" signature="purchaseflow()[pri:0, instance:saniket.testcase.TC01@226a82c4]" name="purchaseflow" duration-ms="39243" started-at="2020-06-18T16:30:09 IST" finished-at="2020-06-18T16:30:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseflow -->
+        <test-method status="PASS" signature="close()[pri:0, instance:saniket.testcase.TC01@226a82c4]" name="close" is-config="true" duration-ms="0" started-at="2020-06-18T16:30:48 IST" finished-at="2020-06-18T16:30:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:saniket.testcase.TC01@226a82c4]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-06-18T16:30:48 IST" finished-at="2020-06-18T16:30:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:saniket.testcase.TC01@226a82c4]" name="afterSuite" is-config="true" duration-ms="895" started-at="2020-06-18T16:30:48 IST" finished-at="2020-06-18T16:30:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- saniket.testcase.TC01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
