@@ -20,6 +20,8 @@ i have created only one test case so i am using this testNG.xml file to run and 
 For that we have to run the testcase by testNG.xml file and after run the testcase refersh the project and go to test-output>>emailable-report.html.
 Double click on the file to open the report.At the end we have have POM.xml file which contains all the dependencies which is used in the framework.
 
+NOTE:- Please run this automated script on chorme beacuse i didnt configure for other browser right now.
+
 Steps to import the project:-
 
 1.Click File > Import.
